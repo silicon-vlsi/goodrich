@@ -9,4 +9,4 @@ Power Electronics resources
   - [Datasheet:CPM3-3300-R050A Wolfspeed SiC Gen3 MOSFET](https://assets.wolfspeed.com/uploads/2024/01/wolfspeed_cpm3-3300-r050a_data_sheet.pdf) : 3.3kV 50A die (7.7mm X 4.7mm), good reference for getting an idea on the die size.
   - [Wolfspeed 3.3kV/770A Module](https://assets.wolfspeed.com/uploads/2023/04/Wolfspeed_Silicon_Carbide_3300_V_Product_Brief.pdf)
   - [BARE DIE: 3.3kV/100A Microchip MSC025SMA330D-MOSFET](https://www.microchip.com/en-us/product/MSC025SMA330D-MOSFET)
-  - 
+  - [Wolfspeed Forum](https://forum.wolfspeed.com/): Lot of detail question answered here.
